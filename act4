@@ -3,8 +3,11 @@ creo un archivo que voy a modificar para hacer commits
 <<<<<<< HEAD
 primer cambio
 segundo cambio y ultimo commit
+<<<<<<< HEAD
 =======
 >>>>>>> b08e4e0 (el primer commit de future)
 =======
 primer cambio
 >>>>>>> 661681b (el segundo commit de future)
+=======
+>>>>>>> a8fb316 (el tercer commit de future)
