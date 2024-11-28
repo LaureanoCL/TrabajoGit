@@ -1,3 +1,6 @@
 creo un archivo que voy a modificar para hacer commits
+<<<<<<< HEAD
 primer cambio
 segundo cambio y ultimo commit
+=======
+>>>>>>> b08e4e0 (el primer commit de future)
